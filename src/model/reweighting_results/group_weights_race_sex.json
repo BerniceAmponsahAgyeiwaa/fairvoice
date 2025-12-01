@@ -1,0 +1,62 @@
+{
+  "group_weights": {
+    "African American||Female": 0.11111111111111112,
+    "African American||Male": 0.07692307692307691,
+    "Asian||Female": 0.5,
+    "Asian||Male": 0.20297029702970298,
+    "Caucasian||Female": 0.03243670886075949,
+    "Caucasian||Male": 0.03333333333333333,
+    "Unknown||Female": 1.0
+  },
+  "counts": [
+    {
+      "Race": "African American",
+      "Sex": "Female",
+      "count": 738,
+      "weight": 3.4254742547425474,
+      "weight_norm": 0.11111111111111112
+    },
+    {
+      "Race": "African American",
+      "Sex": "Male",
+      "count": 1066,
+      "weight": 2.371482176360225,
+      "weight_norm": 0.07692307692307691
+    },
+    {
+      "Race": "Asian",
+      "Sex": "Female",
+      "count": 164,
+      "weight": 15.414634146341463,
+      "weight_norm": 0.5
+    },
+    {
+      "Race": "Asian",
+      "Sex": "Male",
+      "count": 404,
+      "weight": 6.257425742574258,
+      "weight_norm": 0.20297029702970298
+    },
+    {
+      "Race": "Caucasian",
+      "Sex": "Female",
+      "count": 2528,
+      "weight": 1.0,
+      "weight_norm": 0.03243670886075949
+    },
+    {
+      "Race": "Caucasian",
+      "Sex": "Male",
+      "count": 2460,
+      "weight": 1.0276422764227642,
+      "weight_norm": 0.03333333333333333
+    },
+    {
+      "Race": "Unknown",
+      "Sex": "Female",
+      "count": 82,
+      "weight": 30.829268292682926,
+      "weight_norm": 1.0
+    }
+  ]
+}
