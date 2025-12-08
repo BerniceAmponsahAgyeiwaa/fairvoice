@@ -1,0 +1,6 @@
+=== Threshold Optimization Report ===
+Chosen threshold: 0.05
+
+Group Accuracies:
+Female: 0.1708
+Male: 0.1707
